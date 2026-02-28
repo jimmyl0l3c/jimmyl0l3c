@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=rose_pine&hide_border=true&layout=compact&langs_count=6&hide=PLpgSQL
+          options: username=${{ github.repository_owner }}&theme=rose_pine&hide_border=true&layout=compact&langs_count=8&hide=PLpgSQL
           path: profile/top-langs.svg
           # token: ${{ secrets.GITHUB_TOKEN }}
 
