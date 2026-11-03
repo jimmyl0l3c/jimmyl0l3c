@@ -1,6 +1,6 @@
-<span>
+<!--<span>
   <img height=200 align="center" src="./profile/stats.svg" />
-</span>
+</span>-->
 <span>
   <img height=200 align="center" src="./profile/top-langs.svg" />
 </span>
